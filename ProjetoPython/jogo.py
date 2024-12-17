@@ -1,0 +1,2 @@
+def jogar():
+    print("jogo")
